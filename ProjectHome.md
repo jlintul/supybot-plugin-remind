@@ -1,0 +1,3 @@
+This is a plugin originally developed by Rebecca Bettencourt. The original source can be found at https://github.com/frumiousbandersnatch/sobrieti-plugins/tree/master/plugins/Remind
+
+I'm rehosting it at Google Code because I think that it is easier to manage. There are a lot more projects for Supybot on this platform. Feel free to take a look at them: http://yetiblog1337.wordpress.com/category/irc/
